@@ -24,13 +24,13 @@ Transition starts once the components is mounted.
 
 ## Props
 
-| name     | type    | default     | description                                        |
-| -------- | ------- | ----------- | -------------------------------------------------- |
-| key      | string  |             | the key shared by the elements to be transitioned. |
-| easing   | string  | ease-in-out |                                                    |
-| delay    | number  | 0.0         |                                                    |
-| duration | number  | 250         |                                                    |
-| clear    | boolean | false       | clear animation properties                         |
+| name     | type    | default     | description                                         |
+| -------- | ------- | ----------- | --------------------------------------------------- |
+| key      | string  |             | the key shared by the elements to be transitioned.  |
+| easing   | string  | ease-in-out |                                                     |
+| delay    | number  | 0.0         |                                                     |
+| duration | number  | 250         |                                                     |
+| clear    | boolean | false       | clear animation properties when done transitioning. |
 
 ## Methods
 
