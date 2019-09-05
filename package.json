@@ -29,7 +29,7 @@
     "index.mjs",
     "index.js"
   ],
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Transition elements between routes.",
   "repository": "https://github.com/JoshuaAmaju/svelte-shared-transition.git",
   "author": "Joshua Amaju <princejosh0007@gmail.com>",
